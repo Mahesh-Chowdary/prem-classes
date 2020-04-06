@@ -1,0 +1,8 @@
+12:22:27	 From  Sudipto : Sir, Here what basically we are trying to do ?
+12:23:14	 From  astha.satsangi : label is the target, find rules for mango, grapes... etc ie target
+12:24:02	 From  Sudipto : but the label and items are not matching but still we are trying to compair
+12:24:14	 From  Sudipto : that is bit confusing 
+12:24:54	 From  astha.satsangi : based on diameter and color - they are finding which fruit it is.. 
+12:26:13	 From  Sudipto : ok sir
+12:27:58	 From  Vishnu Sandeep Reddy : water content inair
+12:28:08	 From  iTarak007 : bangalore is in hill region
